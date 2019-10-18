@@ -7,7 +7,7 @@
   margin-right: auto;
   width: 50%;
   margin-top: 5%;
-  border: 10px solid lightblue;
+  border: 10px solid #ffb3b3;
 }
 /* Buttons */
 #home {
@@ -20,12 +20,16 @@ button {
   margin-left: 30%;
   margin-right: 30%;
   width: 40%;
-  background-color: lightblue;
+  background-color: #ffb3b3;
   color: black;
 }
 
 #well {
   margin-top: 5%;
+}
+
+.well {
+  height: 450px;
 }
 
 .tight {
