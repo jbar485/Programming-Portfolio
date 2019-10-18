@@ -1,5 +1,11 @@
 /* Header */
+h2, h3 {
+  font-family: fantasy;
+}
 
+.panel-heading h2 {
+  font-family: sans-serif;
+}
 /* Images */
 .center {
   display: block;
@@ -45,4 +51,8 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
 /* .panel-height { */
   height: 250px;
+}
+
+span {
+
 }
