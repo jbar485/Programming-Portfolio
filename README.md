@@ -23,6 +23,10 @@ _None_
 
 _Contact: Example@hoot.com_
 
+## gh-pages link
+
+_https://jbar485.github.io/Programming-Portfolio/index.html_
+
 ## Technologies Used
 
 _Html, Css, and Bootstrap_
